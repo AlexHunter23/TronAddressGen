@@ -1,0 +1,13 @@
+﻿  Dispatcher.cpp
+  jsonxx.cpp
+  Mode.cpp
+  precomp.cpp
+  profanity.cpp
+  SpeedSample.cpp
+  正在生成代码...
+  applink.c
+  OpenCL.lib(StaticLib1.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+    正在创建库 J:\AI-DX\FIRST_OPENCL\profanity-tron_beta\x64\Release\profanity.lib 和对象 J:\AI-DX\FIRST_OPENCL\profanity-tron_beta\x64\Release\profanity.exp
+  正在生成代码
+  已完成代码的生成
+  profanity.vcxproj -> J:\AI-DX\FIRST_OPENCL\profanity-tron_beta\x64\Release\profanity.exe
