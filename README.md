@@ -2,7 +2,7 @@
 
 波场（TRON）靓号生成器，利用 `gpu` 进行加速。代码开源 , 上手简单 , 安全可靠 🔥
 
-<img width="100%" src="[cmd.jpg (1134×407) (raw.githubusercontent.com)](https://raw.githubusercontent.com/AlexHunter23/TronAddressGen/master/static/cmd.jpg)"/>
+<img width="100%" src="https://raw.githubusercontent.com/AlexHunter23/TronAddressGen/master/static/cmd.jpg"/>
 
 > Fbi Warning 1: 该程序仅用于学习交流，请勿用于非法用途。
 
