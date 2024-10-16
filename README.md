@@ -8,6 +8,13 @@
 
 > Fbi Warning 2: 本程序仅在本仓库发布并更新，请勿下载运行其它来路不明的版本，由此造成的一切损失，请自行承担。
 
+About:
+
+  Profanity is a vanity address generator for Tron: https://tron.network
+  The software is modified based on ethereum profanity: https://github.com/johguse/profanity
+  Please make sure the program you are running is download from: https://github.com/GG4mida/profanity-tron
+  Author: telegram -> @jackslowfak
+
 ## 广告
 
 需要以太坊（ETH）靓号生成的，请移步：[profanity-ether](https://github.com/GG4mida/profanity-ether)
