@@ -8,12 +8,11 @@
 
 > Fbi Warning 2: 本程序仅在本仓库发布并更新，请勿下载运行其它来路不明的版本，由此造成的一切损失，请自行承担。
 
-## About:
+### About
 
-  Profanity is a vanity address generator for Tron: https://tron.network
-  The software is modified based on ethereum profanity: https://github.com/johguse/profanity
-  Please make sure the program you are running is download from: https://github.com/GG4mida/profanity-tron
-  Author: telegram -> @jackslowfak
+- 提供免费自动生成波场钱包靓号服务，采用最先进的算法，生成速度无与伦比，支持多网页离线同时刷，是当前最安全最快速的波场刷靓号神器。
+  Currently the safest and fastest TRON tool for generating beautiful accounts.
+- [AlexHunter23/TronAddressGen (github.com)](https://github.com/AlexHunter23/TronAddressGen/tree/master)
 
 ## 广告
 
